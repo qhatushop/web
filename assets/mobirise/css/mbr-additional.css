@@ -1687,7 +1687,7 @@ section.lazy-placeholder:after {
 .cid-s8hm3NjMOY {
   padding-top: 225px;
   padding-bottom: 15px;
-  background-color: #d6f5ed;
+  background-color: #ffffff;
   position: relative;
   overflow: hidden;
 }
@@ -1701,7 +1701,7 @@ section.lazy-placeholder:after {
 .cid-s8hm3NjMOY #e3_circle,
 .cid-s8hm3NjMOY #e4_circle,
 .cid-s8hm3NjMOY #e5_circle {
-  fill: #ffffff !important;
+  fill: #f2f6ff !important;
 }
 .cid-s8hm3NjMOY #e6_circle {
   fill: #ffffff !important;
@@ -1725,7 +1725,7 @@ section.lazy-placeholder:after {
 .cid-s8hm3NjMOY .round {
   border-radius: 100%;
   position: absolute;
-  background-color: #ffffff;
+  background-color: #f2f6ff;
   animation: orbit 4s linear infinite;
 }
 .cid-s8hm3NjMOY .rev {

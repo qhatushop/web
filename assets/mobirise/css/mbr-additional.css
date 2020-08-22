@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Spartan:100,200,300,400,500,600,700,800,900&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Varela+Round:400&display=swap);
 @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&subset=cyrillic&display=swap);
 
 
@@ -8,14 +10,14 @@ body {
   font-family: IBM Plex Sans;
 }
 .display-1 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Spartan', sans-serif;
   font-size: 3.8rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.08rem;
 }
 .display-2 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -30,7 +32,7 @@ body {
   font-weight: 400;
 }
 .display-5 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Spartan', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {

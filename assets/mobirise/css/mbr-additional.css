@@ -1008,7 +1008,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s8luiFhOhj {
-  padding-top: 195px;
+  padding-top: 180px;
   padding-bottom: 90px;
   background-color: #6504c7;
 }
@@ -1079,7 +1079,7 @@ section.lazy-placeholder:after {
   margin-top: 0.1rem;
 }
 .cid-s8H6ROnFlY .mbr-section-subtitle {
-  color: #716c80;
+  color: #232323;
 }
 .cid-s8H6ROnFlY .img-col {
   padding: 0;
@@ -1154,6 +1154,10 @@ section.lazy-placeholder:after {
 .cid-s8HSUMoiKT .card-title,
 .cid-s8HSUMoiKT .main-title {
   color: #57468b;
+}
+.cid-s8HSUMoiKT .mbr-text,
+.cid-s8HSUMoiKT .mbr-section-btn {
+  color: #232323;
 }
 .cid-s8CNQUIxFo {
   padding-top: 90px;

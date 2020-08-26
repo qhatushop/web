@@ -1961,8 +1961,6 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s8IWGk1kmo {
-  padding-top: 135px;
-  padding-bottom: 75px;
   background-image: url("../../../assets/images/background12.jpg");
 }
 .cid-s8IWGk1kmo .mbr-arrow {
@@ -2003,6 +2001,8 @@ section.lazy-placeholder:after {
   color: #716c80;
 }
 .cid-s8IREFztrk {
+  padding-top: 75px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-s8IREFztrk .card-box {
